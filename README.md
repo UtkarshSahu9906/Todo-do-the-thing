@@ -10,7 +10,7 @@ A full-stack Android productivity app built entirely in Java with Android Studio
 
 | Login | Home | Add Task |
 |-------|------|----------|
-| ![Login](https://raw.githubusercontent.com/UtkarshSahu9906/Todo-do-the-thing/master/ss_1.jpeg) | ![Home](https://raw.githubusercontent.com/UtkarshSahu9906/Todo-do-the-thing/master/ss_2.jpeg) | ![Add Task](https://raw.githubusercontent.com/UtkarshSahu9906/Todo-do-the-thing/master/ss_3.jpeg) |
+| ![Login](https://github.com/UtkarshSahu9906/Todo-do-the-thing/blob/master/screenshots/ss_1.jpeg) | ![Home](https://github.com/UtkarshSahu9906/Todo-do-the-thing/blob/master/screenshots/ss_2.jpeg) | ![Add Task](https://github.com/UtkarshSahu9906/Todo-do-the-thing/blob/master/screenshots/ss_3.jpeg) |
 
 ---
 
