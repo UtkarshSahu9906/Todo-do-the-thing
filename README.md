@@ -10,7 +10,7 @@ A full-stack Android productivity app built entirely in Java with Android Studio
 
 | Login | Home | Add Task |
 |-------|------|----------|
-| ![Login](https://github.com/UtkarshSahu9906/Todo-do-the-thing/blob/master/screenshots/ss_1.jpeg) | ![Home](https://github.com/UtkarshSahu9906/Todo-do-the-thing/blob/master/screenshots/ss_2.jpeg) | ![Add Task](https://github.com/UtkarshSahu9906/Todo-do-the-thing/blob/master/screenshots/ss_3.jpeg) |
+| ![Login](https://raw.githubusercontent.com/UtkarshSahu9906/Todo-do-the-thing/master/screenshots/ss_1.jpeg) | ![Home](https://raw.githubusercontent.com/UtkarshSahu9906/Todo-do-the-thing/master/screenshots/ss_2.jpeg) | ![Add Task](https://raw.githubusercontent.com/UtkarshSahu9906/Todo-do-the-thing/master/screenshots/ss_3.jpeg) |
 
 ---
 
@@ -200,8 +200,28 @@ implementation 'de.hdodenhof:circleimageview:3.1.0'
 
 ## License
 
-© 2026 Utkarsh Sahu. All rights reserved.
-This project is private and not open for redistribution.
+```
+Copyright (c) 2024 Utkarsh Sahu. All Rights Reserved.
+
+This software and its source code are the exclusive property of Utkarsh Sahu.
+
+No part of this software — including but not limited to the source code,
+design, logic, or assets — may be copied, modified, merged, published,
+distributed, sublicensed, sold, or otherwise used in any form, whether
+commercial or non-commercial, without the express prior written permission
+of the author.
+
+Viewing the source code on GitHub does not grant any rights to use,
+copy, modify, or distribute it.
+
+Unauthorized use, reproduction, or distribution of this software is strictly
+prohibited and may result in civil and criminal legal action.
+
+For licensing or collaboration inquiries, contact:
+utkarshsahu9906@gmail.com
+```
+
+---
 
 ## Author
 
