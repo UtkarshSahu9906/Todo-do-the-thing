@@ -10,7 +10,7 @@ A full-stack Android productivity app built entirely in Java with Android Studio
 
 | Login | Home | Add Task |
 |-------|------|----------|
-| ![Login](https://github.com/UtkarshSahu9906/Todo-do-the-thing/tree/master/ss_1) | ![Home](https://github.com/UtkarshSahu9906/Todo-do-the-thing/tree/master/ss_2) | ![Add Task](https://github.com/UtkarshSahu9906/Todo-do-the-thing/tree/master/ss_3) |
+| ![Login](https://raw.githubusercontent.com/UtkarshSahu9906/Todo-do-the-thing/master/ss_1.jpeg) | ![Home](https://raw.githubusercontent.com/UtkarshSahu9906/Todo-do-the-thing/master/ss_2.jpeg) | ![Add Task](https://raw.githubusercontent.com/UtkarshSahu9906/Todo-do-the-thing/master/ss_3.jpeg) |
 
 ---
 
@@ -91,8 +91,8 @@ app/src/main/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/todo-android.git
-cd todo-android
+git clone https://github.com/UtkarshSahu9906/Todo-do-the-thing.git
+cd Todo-do-the-thing
 ```
 
 **2. Firebase Setup**
@@ -200,29 +200,14 @@ implementation 'de.hdodenhof:circleimageview:3.1.0'
 
 ## License
 
-```
-MIT License
-
-Copyright (c) 2024 Utkarsh
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-```
-
----
+© 2026 Utkarsh Sahu. All rights reserved.
+This project is private and not open for redistribution.
 
 ## Author
 
-**Utkarsh**  
+**Utkarsh Sahu**  
 Android Developer  
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/utkarshsahu9906/)) · [GitHub]([https://github.com/yourusername](https://github.com/UtkarshSahu9906/Todo-do-the-thing))
+[LinkedIn](https://www.linkedin.com/in/utkarshsahu9906/) · [GitHub](https://github.com/UtkarshSahu9906/Todo-do-the-thing)
 
 ---
 
